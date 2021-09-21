@@ -1,0 +1,30 @@
+{
+  "name": "anothertailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "Jordan Lambrecht",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.4.4"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.3",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.1",
+    "flickity": "^2.2.2",
+    "instafeed.js": "^2.0.0",
+    "node-cron": "^3.0.0",
+    "react-dom": "^17.0.2",
+    "react-flickity-component": "^3.6.1"
+  }
+}
